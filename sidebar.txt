@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ccp:home|Door43 (ccp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ccp|d43-ccp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ccp/archive/master.zip|d43-ccp.zip]]
+
+**Recent Changes**
+{{changes>ns = ccp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ccp|Ethnologue data]]
+
